@@ -9,6 +9,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import cn.itcast.domain.Account;
 import cn.itcast.service.AccountService;
 
+//eclipse从github中下载项目
+
+//再上传一下
+
 @Controller
 @RequestMapping("/pages")
 public class AccountController {
