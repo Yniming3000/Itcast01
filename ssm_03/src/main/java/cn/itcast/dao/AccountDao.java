@@ -10,4 +10,5 @@ public interface AccountDao {
     
 	@Select("select * from account")
 	public List<Account> findAll();
+	//ÕâÀïÌí¼Ó×¢ÊÍ
 }
