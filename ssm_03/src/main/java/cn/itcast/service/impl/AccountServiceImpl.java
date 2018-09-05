@@ -20,5 +20,6 @@ public class AccountServiceImpl implements AccountService{
 		System.out.println("spring框架搭建");
 		return list;
 	}
+	//在service实现类中添加注释
 
 }
